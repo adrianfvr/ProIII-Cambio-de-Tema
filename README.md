@@ -162,15 +162,6 @@ function actualizarContador() {
 
 ---
 
-## 📋 Mejoras posibles
-
-* [ ] Guardar el contador en `localStorage` para mantenerlo entre sesiones
-* [ ] Animaciones más fluidas al cambiar tema
-* [ ] Agregar más temas personalizables
-* [ ] Implementar selector automático de tema según la hora del día
-
----
-
 ## ✅ Cómo usar
 
 1. Clona el repositorio o descarga los archivos:
@@ -193,5 +184,6 @@ Iconos proporcionados por [IonIcons](https://ionic.io/ionicons)
 Fuente: [Poppins - Google Fonts](https://fonts.google.com/specimen/Poppins)
 
 ---
+
 
 
